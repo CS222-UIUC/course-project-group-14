@@ -1,1 +1,5 @@
-
+import re
+def FindingDates(file, output):
+    with open(file, 'r') as f:
+        for line in f:
+            #parse
