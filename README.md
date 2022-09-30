@@ -1,4 +1,5 @@
-# course-project-group-14
+# SyllaBestie
+#### UIUC CS222 Fall 2022
 #### Created by: Chris Tang, Aditi Roy, Abena Last, Eric Ly
 course-project-group-14 created by GitHub Classroom
 
