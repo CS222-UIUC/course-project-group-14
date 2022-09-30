@@ -1,4 +1,9 @@
 import re
+def mergeList(list1, list2, merged_list):
+    for n in (list1, list2):
+        for x in n:
+            merged_list.append(x)
+            
 def FindingDates(file, output):
     with open(file, 'r') as f:
         for line in f:
