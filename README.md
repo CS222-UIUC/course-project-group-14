@@ -1,6 +1,6 @@
 # course-project-group-14
+#### Created by: Chris Tang, Aditi Roy, Abena Last, Eric Ly
 course-project-group-14 created by GitHub Classroom
-### Created by: Chris Tang, Aditi Roy, Abena Last, Eric Ly
 
 ## Project Description
 Every semester, students receive syllabi from every class with a multitude of information about grades, resources and dates. 
