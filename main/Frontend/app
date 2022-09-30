@@ -1,3 +1,4 @@
+#from asyncore import file_dispatcher
 from flask import *
 
 app=Flask(__name__)
@@ -6,5 +7,13 @@ app=Flask(__name__)
 def upload():
     return render_template("homepage.html")
 
+@app.route("/success", methods = ["POST"])
+def success():
+    global file
+    f = request.files['file']
+    file = f.filename
+    f.save(file)
+    return render_template("currently_parsing.html", name = file)
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug = True)
