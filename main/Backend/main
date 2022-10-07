@@ -1,4 +1,6 @@
 import re
+import csv
+
 def mergeList(list1, list2, merged_list):
     for n in (list1, list2):
         for x in n:
@@ -36,7 +38,11 @@ def FindingDates(file, output):
             
             mergeList(thirtyone_time_list, thirty_time_list, not_february_time_list)
             mergeList(feb_time_list, not_february_time_list, time_list)
+
+            with open(output, 'w') as file:
+                writer = csv.writer(file)
+                writer.writerow(thirtyone_time_list)
             
 
 
-FindingDates(file, out):
+FindingDates("input.csv", "test.csv")
