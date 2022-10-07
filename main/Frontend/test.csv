@@ -1,0 +1,3 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
+TEST EVENT1,12/30/2022,1:00 PM,12/31/22,11:59 PM,YES,This is a test description.,ONLINE,FALSE
+TEST EVENT2,12/1/2022,2:00 AM,12/1/22,5:00 AM,NO,Really early in the morning.,Siebel 1140,TRUE
