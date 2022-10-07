@@ -8,7 +8,14 @@
 <p> Currently Parsing . . . </p>
 <p> File Name: {{name}}</p>
 <p> Currently in the process of parsing file: {{name}}</p>
-<br>
 
+<script>    
+    window.setTimeout(function(){
+      // Move to a new location or you can do something else
+      window.location.href = "http://127.0.0.1:5000/complete";
+      }, 5000);
+
+</script>
+<br>
 </body>
 </html>
