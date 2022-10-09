@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
+<style>
+    h1 {
+        font-size: 2.5em
+    }
+    b {
+        font-size: 1.4em
+    }
+</style>
+
 <head>
-    <title>Homepage</title>
+    <title> Homepage </title>
 </head>
 <body bgcolor="#E84A27">
 <div align="center">
@@ -9,12 +18,20 @@
     <hr><br>
     <head>
         <b> Convert all UIUC syllabi to calendar reminders with the click of a button!</b>
+        <br>
     </head>
-
+    <br>
     <form action = "/success" method = "post" enctype="multipart/form-data">
         <input type="file" name="file" accept=".pdf"/><br><br>
         <input type = "submit" value="Upload">
     </form>
+
+    <br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="{{url_for('static', filename='UIUC.jpg')}}" width="500" height="450">
 </div>
 </body>
 </html>

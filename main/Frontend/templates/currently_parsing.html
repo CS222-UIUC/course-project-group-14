@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 
 <html>
+  <style>
+    h1 {
+        font-size: 2.5em
+    }
+    h2 {
+        font-size: 1.6em
+        color = "#ffffff";
+    }
+</style>
 <head>
 <title> Confirmation </title>
 </head>
-<body bgcolor="#87CEEB" align = "center">
-<p> Currently Parsing . . . </p>
-<p> File Name: {{name}}</p>
-<p> Currently in the process of parsing file: {{name}}</p>
+<body bgcolor="#13294B" align = "center">
+<h1> Currently Parsing . . . </h1>
+<h2> File Name: {{name}}</h2>
+<h2> Currently in the process of parsing file: {{name}}</h2>
 
 <script>    
     window.setTimeout(function(){
@@ -16,6 +25,14 @@
       }, 5000);
 
 </script>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="500" height="580">
 <br>
 </body>
 </html>
