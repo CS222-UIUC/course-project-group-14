@@ -1,7 +1,7 @@
 #from asyncore import file_dispatcher
 from flask import *
 
-app = Flask(__name__)
+app = Flask(__name__,  static_url_path='/static')
 
 @app.route("/") # homepage
 def home():
@@ -15,11 +15,11 @@ def success():
     f.save(file)
     return render_template("currently_parsing.html", name = file)
 
-@app.route('/complete')
+@app.route('/complete') # parsing is done, CSV can be downloaded
 def complete():
     return render_template("complete.html")
 
-@app.route('/download')
+@app.route('/download') # allows downloading
 def download_file():
     path = "test.csv"
     return send_file(path, as_attachment=True)
