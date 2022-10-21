@@ -1,5 +1,6 @@
 import re
 import csv
+
 import os
 import PyPDF2
 
@@ -18,6 +19,7 @@ def ReadPDF(): # function that reads/outputs entire pdf file for parsing
 
     pdfFile.close()
     txtFile.close()
+
 def mergeList(list1, list2, merged_list):
     for n in (list1, list2):
         for x in n:
@@ -62,4 +64,4 @@ def FindingDates(file, output):
                 writer.writerow(thirtyone_time_list)
             
 
-#FindingDates('input.csv', 'test.csv')
+#FindingDates('input.csv', 'result.csv')

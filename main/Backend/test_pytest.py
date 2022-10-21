@@ -10,5 +10,5 @@ def test_write():
     assert merged_list == result
 
 def test_parse():
-    main.FindingDates('Backend/input.csv', 'Backend/test.csv')
+    main.FindingDates('Main/Backend/input.csv', 'Main/Backend/result.csv')
     assert True
