@@ -3,6 +3,10 @@ from werkzeug.utils import secure_filename
 from flask_wtf import FlaskForm
 from wtforms import FileField, SubmitField
 import os 
+import sys
+sys.path.insert(0, './')
+
+import Main.Backend.main as backend
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'password'
@@ -25,6 +29,7 @@ def home():
 @app.route('/complete') # parsing is done, CSV can be downloaded
 def complete():
     # parse here
+    backend.ReadPDF()
     return render_template("complete.html")
 
 @app.route('/download') # allows downloading

@@ -5,6 +5,7 @@ import os
 import PyPDF2
 
 def ReadPDF(): # function that reads/outputs entire pdf file for parsing
+    print("HERE")
     pdfFile = open('Main/Frontend/static/file.pdf', 'rb') 
     pdfReader = PyPDF2.PdfFileReader(pdfFile)
     numPages = pdfReader.numPages
