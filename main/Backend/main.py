@@ -5,13 +5,12 @@ import os
 import PyPDF2
 
 def ReadPDF(): # function that reads/outputs entire pdf file for parsing
-    print("Begin")
-    pdfFile = open('main\Backend\Syllabus - CWL242.pdf', 'rb') 
+    pdfFile = open('..\Frontend\static\file.pdf', 'rb') 
     pdfReader = PyPDF2.PdfFileReader(pdfFile)
     numPages = pdfReader.numPages
 
     # txt file we write to in order to parse
-    txtFile = open("main\Backend\parsed.txt", "a")
+    txtFile = open("Main\Backend\parsed.txt", "a")
 
     for i in range(0, numPages): # read entire file
         txtFile.write(pdfReader.getPage(i).extractText())
