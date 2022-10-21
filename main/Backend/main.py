@@ -1,7 +1,16 @@
 import re
 import csv
-import os
-
+import cgi, os
+import cgitb; cgitb.enable()
+form = cgi.FieldStorage()
+#get filename
+fileitem = form['file']
+if fileitem.filename:
+    fn = os.path.basename(fileitem.filename)
+    open('/tmp/' + fn, 'wb').write(fileitem.file.read())
+    message = 'The file "' + fn + '" was uploaded successfully'
+else:
+    message = 'No file was uploaded'
 def mergeList(list1, list2, merged_list):
     for n in (list1, list2):
         for x in n:

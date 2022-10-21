@@ -1,11 +1,27 @@
 #from asyncore import file_dispatcher
 from flask import *
+from werkzeug.utils import secure_filename
+from flask_wtf import FlaskForm
+from wtforms import FileField, SubmitField
+import os 
 
-app = Flask(__name__,  static_url_path='/static')
+app = Flask(__name__)
+app.config['SECRET_KEY'] = 'password'
+app.config['UPLOAD_FOLDER'] = 'static'
 
-@app.route("/") # homepage
+class UploadFileForm(FlaskForm):
+    file = FileField("File")
+    submit = SubmitField("Upload File")
+
+@app.route("/", methods=['GET', 'POST'])
+@app.route("/home", methods=['POST']) # homepage
 def home():
-    return render_template("homepage.html")
+    form = UploadFileForm()
+    if form.validate_on_submit():
+        file = form.file.data # First grab the file
+        file.save(os.path.join(os.path.abspath(os.path.dirname(__file__)),app.config['UPLOAD_FOLDER'],secure_filename(file.filename))) # Then save the file
+        return render_template("currently_parsing.html", name = file)
+    return render_template("homepage.html", form = form)
 
 @app.route("/success", methods = ["POST"]) #parsing was successful and is in progress
 def success():
@@ -14,6 +30,11 @@ def success():
     file = f.filename
     f.save(file)
     return render_template("currently_parsing.html", name = file)
+
+@app.route('/upload/<filename>')
+def upload(filename):
+    UPLOAD_PATH = "../Backend"
+    return send_from_directory(app.config[UPLOAD_PATH], filename)
 
 @app.route('/complete') # parsing is done, CSV can be downloaded
 def complete():
