@@ -21,7 +21,7 @@ def complete():
 
 @app.route('/download') # allows downloading
 def download_file():
-    path = "test.csv"
+    path = "../Backend/result.csv"
     return send_file(path, as_attachment=True)
 
 if __name__ == "__main__":

@@ -45,4 +45,4 @@ def FindingDates(file, output):
                 writer.writerow(thirtyone_time_list)
             
 
-#FindingDates('input.csv', 'test.csv')
+#FindingDates('input.csv', 'result.csv')
