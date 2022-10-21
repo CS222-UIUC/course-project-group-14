@@ -1,5 +1,6 @@
 import main
 import pytest
+from os.path import exists
 
 def test_write():
     list1 = [1, 2, 3]
@@ -12,3 +13,7 @@ def test_write():
 def test_parse():
     main.FindingDates('Main/Backend/input.csv', 'Main/Backend/result.csv')
     assert True
+
+def test_parse2():
+    main.ReadPDF()
+    assert exists("Main/Backend/parsed.txt")
