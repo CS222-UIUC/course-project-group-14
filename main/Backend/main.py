@@ -1,21 +1,31 @@
 import re
 import csv
-import cgi, os
-import cgitb; cgitb.enable()
-form = cgi.FieldStorage()
-#get filename
-fileitem = form['file']
-if fileitem.filename:
-    fn = os.path.basename(fileitem.filename)
-    open('/tmp/' + fn, 'wb').write(fileitem.file.read())
-    message = 'The file "' + fn + '" was uploaded successfully'
-else:
-    message = 'No file was uploaded'
+
+import os
+import PyPDF2
+
+def ReadPDF(): # function that reads/outputs entire pdf file for parsing
+    print("Begin")
+    pdfFile = open('main\Backend\Syllabus - CWL242.pdf', 'rb') 
+    pdfReader = PyPDF2.PdfFileReader(pdfFile)
+    numPages = pdfReader.numPages
+
+    # txt file we write to in order to parse
+    txtFile = open("main\Backend\parsed.txt", "a")
+
+    for i in range(0, numPages): # read entire file
+        txtFile.write(pdfReader.getPage(i).extractText())
+        txtFile.write("\n\n")
+
+    pdfFile.close()
+    txtFile.close()
+
 def mergeList(list1, list2, merged_list):
     for n in (list1, list2):
         for x in n:
             merged_list.append(x)
             
+
 def FindingDates(file, output):
     with open(file, 'r') as f:
         for line in f:

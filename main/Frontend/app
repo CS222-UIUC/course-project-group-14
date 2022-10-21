@@ -1,4 +1,3 @@
-#from asyncore import file_dispatcher
 from flask import *
 from werkzeug.utils import secure_filename
 from flask_wtf import FlaskForm
