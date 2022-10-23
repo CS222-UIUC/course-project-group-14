@@ -161,3 +161,608 @@ our model error analysis. By splitting the work in this way (each being in charg
 we are able to utilize our three-person group to the best of our advantage, maximizing analysis
 efficiency.
 
+CWL 242 / Spring 2022 Modern Masterpieces of Western Culture  Lecture: MW 1-150 / 114 David Kinley Hall   What is it then between us? What is the count of the scores or hundreds of years between us?  Walt Whitman  Some endings of the world overlap our lived time, skidding for generations…  Ed Roberson  Instructors / Sections  John Levi Barnard Email: jbarnard@illinois.edu Office Hours: Thursday 1-3 (Zoom)   Meredith Francisco Email: mf15@illinois.edu Sections: F 10-1050 & 12-1250 / 1120 FLB   Sasha McDowell Email: sashacm2@illinois.edu Sections: F 9-950 & 1-150 / 1120 FLB  Modje Taavon Email: mtaavon2@illinois.edu Sections: F 11-1150 & 2-250 / 1120 FLB   Course Description  Comparative study of major works from Europe and the Americas from the eighteenth century to the present day, from Voltaire and Phillis Wheatley to Stanley Kubrick and Ada Limón. We will consider these works as representative of their historical periods, as well as their relevance for the world we live in today. This course is necessarily broad, covering a long history in a short stretch of time; but we will also delve deeply into the individual texts, films, and other works of art that we encounter. These distinct but related aims—coverage of a long history; close attention to specific texts—will be reflected in the writing assignments. These will include structured close reading assignments, as well as looser, more personal reflections on the sweep of the course. If the first type of assignment asks for sustained, intense analysis of a single passage of a single work, the second encourages you to draw connections between various works. Through these assignments, this course fulfills the Advanced Composition requirement. But beyond that, we hope you’ll find specific authors and larger movements and historical eras you may want to learn more about.  Assignments & Grading  There will be 8 total writing assignments. 6 of these will be short (500-600 words), and 2 will be longer (1000-1200 words). The short assignments will be due more or less every two weeks (see the schedule below). These will each offer a choice of responding to 2 specific passages (we will offer 4 to choose from) in the form of close readings, or of doing a more creative response. However, you 
+
+may choose the “creative option” only once in each half of the semester. So, in each half of the semester, you will do at least 2 assignments of close reading, and 1 other short assignment of your choice: either another close reading or the creative option (see specific assignments on the schedule below).  All writing assignments will be graded only as “pass” (which means 100/100 in the Moodle gradebook) or “revise.” To achieve a pass, each piece of writing will need to meet three specific requirements:  • It should be turned in on time • It should be within the required word limits • And it should engage substantively with the text or texts to which it is responding  To elaborate these points:  Due dates: all writing assignments are due on Fridays by midnight (i.e., the end of Friday); but there is an automatic, built-in extension of 48 hours, which is until Sunday at midnight. Papers turned in after Sunday at 11:59 and 59 seconds will receive a 5-point deduction for every day it is late after that  Word limits: close readings should each be 250-300 words (for a total on each assignment of 500-600); longer assignments are 1000-1200 words  Substantive engagement: close readings should explain each passage on a number of levels. A good close reading would do all of the following:  • Identify where the passage came from • Situate the passage within the work from which it is drawn • Explain what the passage means • Show how it exemplifies larger themes or concerns of the text (or of the course more broadly)  Substantive engagement on the creative projects is more subjective. If you have questions about how to engage with course materials in a creative response, please ask your TA, or drop by the professor’s office hours (see above for contact info).   The three primary criteria (on time, right length, substantive engagement) apply to the longer writing assignments as well, and all papers will be graded on the same “pass” or “revise” basis. Papers meeting all three criteria will pass and receive 100/100 in the Moodle gradebook. If a paper does not meet the criteria, your TA will ask you to revise it and resubmit by a specified date. Late papers (submitted after Sunday at midnight, or after the date specified for a revision) will receive a 5-point deduction for every day they are late.    
+
+Longer Papers  The longer writing assignments are described below on the schedule. Both of these papers can be considered forms of substantial revision of the work you’ve done on the shorter papers. As you’ll see below, for the longer papers we will ask broad but pointed questions as a prompt for you to rethink, revise, extend, and connect the ideas you’ve developed in the short papers into coherent reflections on the larger sweep of what we’ve covered. The general criteria and rules for grading are the same as for the short papers.  Final Grades  In this course, we will be grading via what is called “contract grading.” What this means is that if you meet certain criteria we guarantee a certain grade. The details are as follows:  • If you turn in all the writing assignments in accordance with the criteria specified above, you will earn at least a 90/100 for the course • If you meet the first criterion AND do your best to demonstrate substantive engagement, not only on the writing assignments, but in the life of the class, you will earn at least a 95/100 for the course • Substantive engagement means, primarily, active participation in your discussion sections, but there are other ways to be engaged. If speaking in class is not your favorite thing, talk to your section leader about other ways to get active. • Grades may drop below 90/100 for the following reasons only: • Excessive and repeated lateness on assignments and revisions (see policy on grading papers above) • Active disruption of lecture or section  Technology & Communication  There is a Moodle Site for the course. The site includes any readings in PDF form (see schedule below), slides for the lectures, and links for submitting writing assignments.   We will communicate with you via email, sometimes directly from our University of Illinois email accounts, and sometimes via the Moodle email function. Please check your University of Illinois email account at least twice a day, as there may be important updates to assignments and alerts about class meetings (this is especially crucial given the uncertainties regarding the pandemic). If you need to communicate with any of us, please do so via University of Illinois email. This is the only form of communication we will use.  The Pandemic  Speaking of the pandemic: we hope to remain in person for the duration of the semester. However, we know that conditions may change, and we will follow whatever guidance we receive from the university. That guidance currently includes the following: if you have not yet been vaccinated against Covid-19, please do so. If you have been vaccinated, but have not yet received a booster 
+
+shot, please get a booster as soon as possible. Vaccines are free and widely available, and they have been proven to provide excellent protection against severe disease caused by the SARS-CoV-2 virus. This virus, especially the new Omicron variant, is extremely contagious, and we hope that we can all work together to prevent transmission as much as possible. In addition to vaccination, this means wearing a high-quality protective mask that covers your mouth and your nose when we’re gathered together indoors. As recent guidance from the university suggests, cloth masks are not especially effective at preventing transmission, and we encourage you to find high-quality masks like N95s, KN95s, or KF94s. The university is providing one mask to every student on campus, and we encourage you to pick yours up, if you haven’t done so. If you would like to purchase quality masks for yourself, they are available at places like Lowe’s and Costco. If you’re looking for a reputable purveyor online, you might consider https://www.projectn95.org/.   In addition to vaccines and masks (worn at all times when we are together indoors, and worn so that they cover your mouth and your nose), we will also be asking for your patience and flexibility—and we will certainly do our best to be patient and flexible ourselves. It’s hard to know what direction this thing will go, but we may have to pivot occasionally—if only temporarily—to online instruction. This could be because of university-wide instructions, or because of contingencies with respect to individual instructors or even whole sections.  Even if we remain in person, we understand that this is going to be an unpredictable and difficult semester for everyone. Please reach out to any of us if you are struggling, or if there is anything we can do to make this semester a little easier, a little more tolerable.   Required Books  Voltaire, Candide (1759) Johann Wolfgang von Goethe, The Sorrows of Young Werther (1774) Jane Austen, Persuasion (1818) Mary Shelley, Frankenstein (1818) Virginia Woolf, Mrs. Dalloway (1925) Samuel Beckett, Endgame and Act without Words (1957) Primo Levi, The Drowned and the Saved (1986) Helena María Viramontes, Under the Feet of Jesus (1995) Ben Lerner, 10:04 (2014)  Other Course Materials  All other reading materials are available online, through the University Library, or as PDFs, which can be downloaded from our Moodle course site. One film, Dr. Strangelove, is available for streaming on Google and Amazon. If you think you will have trouble accessing the film, please let your TA know in advance, and we will arrange a viewing.    
+
+Schedule of Readings and Assignments  Week 1: Intro  W 1/19 • Intro  Week 2: The “Enlightened” World   M 1/24 • Voltaire, Candide  W 1/26 • Thomas Jefferson, “Declaration of Independence”: https://www.monticello.org/thomas-jefferson/jefferson-s-three-greatest-achievements/the-declaration/transcript-of-the-rough-of-the-declaration/ • Thomas Jefferson, from Notes on the State of Virginia (PDF) • Phillis Wheatley, “To the Right Honourable William, Lord of Dartmouth”: https://www.poetryfoundation.org/poems/47706/to-the-right-honorable-william-earl-of-dartmouth • Phillis Wheatley, “Letter to Samson Occom”: https://www.pbs.org/wgbh/aia/part2/2h19t.html • Tracy K. Smith, “Declaration”: https://www.poetryfoundation.org/poems/147468/declaration-5b5a286052461  Week 3: The Romantic Imagination  M 1/31 • William Wordsworth, “Lines Written a Few Miles above Tintern Abbey”: https://www.poetryfoundation.org/poems/45527/lines-composed-a-few-miles-above-tintern-abbey-on-revisiting-the-banks-of-the-wye-during-a-tour-july-13-1798  • Percy Bysshe Shelley, “Mont Blanc”: https://www.poetryfoundation.org/poems/45130/mont-blanc-lines-written-in-the-vale-of-chamouni  • Percy Bysshe Shelley, “Ozymandias”: https://www.poetryfoundation.org/poems/46565/ozymandias  • Samuel Taylor Coleridge, “Rime of the Ancient Mariner” (Optional): https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834  W 2/2 • Goethe, The Sorrows of Young Werther    
+
+F 2/4 First Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Write a letter (500-600 words) from the perspective of Wilhelm, either back to Werther or to someone else.  Week 4: Austen & the Novel  M 2/7 • Jane Austen, Persuasion (Vol. I, pages 9-98)  W 2/9 • Jane Austen, Persuasion (Vol. II, pages 99-203)  Week 5: Shelley’s Frankenstein  M 2/14 • George Gordon, Lord Byron, “Darkness”: https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b  • Mary Shelley, Frankenstein (Vol. 1, pages 5-62)  W 2/16 • Mary Shelley, Frankenstein (Vols. II-III, pages 63-172)   F 2/18 Second Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Write a letter from Walton’s sister (to Walton or to someone else)  Week 6: Slavery & Freedom in America   M 2/21: • John L. O’Sullivan, “The Great Nation of Futurity” (PDF) • William Cullen Bryant, “The Prairies”: https://www.poetryfoundation.org/poems/55341/the-prairies  • Walt Whitman, “Song of the Open Road”: https://www.poetryfoundation.org/poems/48859/song-of-the-open-road  • Walt Whitman, “Crossing Brooklyn Ferry”: https://www.poetryfoundation.org/poems/45470/crossing-brooklyn-ferry   W 2/23 • William Apess, “An Indian’s Looking Glass for the White Man” (PDF) • Frances E. W. Harper, “Bury Me in a Free Land”: https://www.loc.gov/programs/poetry-and-literature/audio-recordings/poetry-of-america/item/poetry-00000887/d-a-powell-frances-e-w-harper/ 
+
+• Frederick Douglass, “What to the Slave Is the Fourth of July?” (pages 441-45): https://docsouth.unc.edu/neh/douglass55/douglass55.html#p441 • Harriet Jacobs, from Incidents in the Life of a Slave Girl (Chapter XLI: Free at Last) (pages 293-303): https://docsouth.unc.edu/fpn/jacobs/jacobs.html#jac293  Week 7: Capitalism & the City  M 2/28 • Karl Marx & Friedrich Engels, The Communist Manifesto (Sections 1-2; Pages 73-92) (PDF) • Herman Melville, “Bartleby”: https://www.gutenberg.org/files/15859/15859-h/15859-h.htm#chap02  W 3/2 • Charles Baudelaire, “The Painter of Modern Life” (Sections 1-5, 13): https://www.poetryintranslation.com/PITBR/French/BaudelaireThePainterOfModernLife.php • Charles Baudelaire, “To a Passerby”: https://fleursdumal.org/poem/224  • Charles Baudelaire, “The Swan”: https://fleursdumal.org/poem/220  • Charles Baudelaire, “Evening Crepescule”: https://fleursdumal.org/poem/166  • Charles Baudelaire, “Parisian Dream”: https://fleursdumal.org/poem/228  • Charles Baudelaire, “The Old Showman” (PDF) • Charles Baudelaire, “Cake” (PDF) • Charles Baudelaire, “The Eyes of the Poor” (PDF) • Charles Baudelaire, “False Coin” (PDF)  F 3/4 Third Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Imagine you are Karl Marx, writing for the New York Daily Tribune: Write an article explaining what happened to Bartleby (500-600 words)  Week 8: The Frontiers of Empire  M 3/7 • Joseph Conrad, “Youth” (pages 3-42) (PDF)  W 3/9 • TBD  F 3/11 Fourth Writing Assignment Due (1000-1200 words): • We’ve been reading about the emergence of the modern world over the 18th and 19th centuries. How have the writers we’ve read so far characterized that emergence? What does the modern world look like from their 
+
+perspective? What are its most important or dominant features? Is it a world of progress and positive change? Or have things in many ways remained the same, or even regressed? Most importantly, what is it like for people to live in this world? Keep in mind that the writers we’ve read are not all in agreement about these things, and even individual writers may be ambivalent about the state of the world. In your answer, please discuss at least three of the authors we’ve read, including direct quotation and analysis of the text. • We encourage you to draw on your previous writing assignments to do this. Put another way, you can consider this a revision of the writing you’ve already done, a chance to rethink, revise, and connect the short pieces as part of a larger reflection on what we’ve covered so far.  Week 9: Spring Break  Week 10: War, Flu, Modernism  M 3/21 • William Butler Yeats, “The Second Coming”: https://www.poetryfoundation.org/poems/43290/the-second-coming • Virginia Woolf, Mrs. Dalloway (pages 1-54)  W 3/23 • Virginia Woolf, Mrs. Dalloway (pages 54-166)   Week 11: Theater: The Epic & the Absurd  M 3/28 • Bertolt Brecht, Mother Courage and Her Children: https://www-dramaonlinelibrary-com.proxy2.library.illinois.edu/playtext-overview?docid=do-9781408163009&tocid=do-9781408163009-div-00000006   W 3/30 • Samuel Beckett, Endgame • Guest Lecturer: Jim Hansen, Department of English  F 3/4 Third Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Creative Option: Write your own poem, of similar length to Yeats's (and in some way echoing its themes), about our own present moment.    
+
+Week 12: Dr. Strangelove’s America  M 4/4 • Stanley Kubrick, Dr. Strangelove (streaming on Google or Amazon)  W 4/6:  • Martin Luther King, Jr., “The Quest for Peace and Justice”: https://www.nobelprize.org/prizes/peace/1964/king/lecture/  • Martin Luther King, Jr., “Beyond Vietnam”: https://www.americanrhetoric.com/speeches/mlkatimetobreaksilence.htm  • Gil Scott-Heron, “Whitey on the Moon”: https://www.youtube.com/watch?v=goh2x_G0ct4  • Lucille Clifton, “Sorrow Song”: https://www.poetryfoundation.org/poems/49488/sorrow-song  • Lucille Clifton, “The Beginning of the End of the World”: https://www.proquest.com/books/beginning-end-world/docview/2141151953/se-2?accountid=14553   Week 13: Holocaust Memory & Representation  M 4/11 • Charlotte Delbo, from Days and Memory (PDF) • Guest Lecturer: Brett Kaplan, Program in Comparative & World Literature, and Director of the Initiative in Holocaust, Genocide, and Memory Studies  W 4/13 • Primo Levi, The Drowned and the Saved (Preface, Chapters 1-3 & Conclusion; pages 11-87, 198-203)   F 4/15 Third Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Creative Option: Write 500-600 words on your own experience (through school, social life, the media) with the historical memory of ONE of the following: the Cold War or Nuclear Age, the Civil Rights Era, or the Holocaust. How present have these histories been for you? What relevance do they have for us today? How have our readings either challenged or affirmed your impression of these historical events or eras? What have the readings helped you see or understand about these histories that maybe you didn't before? Please refer directly to one or more of our readings or films from the past two weeks.    
+
+Week 14: Cheap Food & Slow Violence   M 4/18 • Rachel Carson, “Silent Spring”: https://www.newyorker.com/magazine/1962/06/16/silent-spring-part-1  • Cesar Chavez, “Lessons of Dr. Martin Luther King, Jr.”: https://chavezfoundation.org/speeches-writings/#1549063914152-2996f9ba-439c  • Helena María Viramontes, Under the Feet of Jesus (Chapters 1-2, pages 3-90)  W 4/20 • Helena María Viramontes, Under the Feet of Jesus (Chapters 3-5 & Acknowledgements; pages 91-180)  Week 15: Hurricanes  M 4/25 • Elizabeth Kolbert, “Man in the Anthropocene” (PDF) • Audre Lorde, “Of Generators and Survival—Hugo Letter” (PDF) • Nikky Finney, “Left”: https://poets.org/poem/left   W 4/27 • Ben Lerner, 10:04 (pages 3-81)  F 4/29 Third Writing Assignment Due (choose one): • Two close readings (250-300 words each) • Creative Option: Write your own poem or flash fiction (500-600 words) about some manifestation of environmental injustice or the climate crisis.  Week 16: Literature for the Future  M 5/2 • Ben Lerner, 10:04 (pages 82-241)  W 5/4 • Ed Roberson, “To See the Earth Before the End of the World” https://verse.press/poem/to-see-the-earth-before-the-end-of-the-world-6296856620761491880  • Ada Limón, “Notes from the Below”: https://poets.org/poem/notes-below  • Closing thoughts and questions    
+
+F 5/6 Eighth and Final Writing Assignment Due: • The story of the 20th and 21st centuries—at least as it has unfolded in what we’ve read and seen here in class—looks a little grim. If in some ways this era can be framed as a story of progress (especially in terms of technology and economic development), that progress seems to have left us on the brink of various interrelated catastrophes, from the nuclear threat to climate change. And these are, of course, themselves bound up with the longer histories of imperial warfare and capitalist globalization we’ve been discussing from the beginning. For the final writing assignment, consider this question: What does it mean for you to be living in this modern world on the verge of crisis? Think about this question specifically in relation to the materials we’ve encountered throughout the semester. How have these readings (and films and other works) helped you to understand how we’ve arrived at this particular historical situation? And (if they have), in what ways have they helped you to imagine possible futures beyond our present crises? We hope you’ll consider this essay as an invitation to write a sort of intellectual autobiography of the semester, reflecting on what you’ve learned, what you’ll take away from these readings, and what they help you imagine for the future. While we are inviting you to write in a personal register, please also remember to discuss, in some detail, at least three of the works we’ve covered in the second half of the semester. And, as with the midterm paper, we encourage you to draw on what you’ve written already: revising, expanding, and connecting the ideas you’ve developed in your shorter papers into a longer, coherent reflection on the course. 
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
+Christopher Tang  
+PHIL307  
+Assignment #8: Presupposition in Advertising  
+ 
+1).  A).  Advertisement for Healthy Butter Alternat ive: “I can’t believe it ’s not butter! ” 
+B).  The advertisement uses the fact ive verb “believe” alongside “can’t” to presup pose that the product 
+is very much,  if not  identical, to the taste and feel of butter despite being a  healthier alternative.  It 
+asserts that it is not butter, though very similar.  
+C).  Question  Test : “Can you beli eve it’s not butter? ” allows the presupposition that the product is very 
+similar to butter despite not being butter to survive.  
+D).  The  presuppo sition contribute s to the  advertisement ’s goal of making their heal thy butter 
+alternative indistinguishable to regular butter.  This would make the viewer more likely to  buy their 
+product, as the substitute  is identical  to the taste and feel of butter but healthier . 
+ 
+2).  A).  Wheaties : “Wheaties, t he Breakfast of Champ ions” 
+B).  The use of definite article “the” implies that there is a single breakfast of champions.   Furthermore, 
+it assert s that Wheaties are the sole breakfast fi t for champions.  
+C).  Question Test : “Is it the bre akfast of champions ?” maintains that there exists a breakfast that is fit 
+for champions.  
+D).  By presupposing that there  exists a sole breakfast fit for champio ns, Wh eaties successfully positions 
+their product as desirable by as sociating it with  winning and victory .  On top of broadening its product’s 
+appeal by making its consumers “winner”, it implies  that other breakfast brand options are not as good . 
+ 
+3).    A).  State  Farm: “Like a good neig hbor, State Farm is there ” 
+B).  The analogy created between State Farm and a good n eighbor presupposes that State Farm is as 
+friendl y and dependable as your  next -door n eighbo r.  It asserts  that S tate Farm is there for you . 
+
+C).  Negation Test: “Like a good neighbor, State F arm is not there for you ” maintains that State Farm is 
+reminis cent of a good neighbor , even if th e full claim does n’t  support prototypical friendliness.  
+D).  The presupposition  advances the notion that State Farm is very dependable and friendly  as if were a  
+neig hbor  who is a moment away.  This contributes to the advertiser ’s goal of making the insurance 
+company seem almost like family and very dependable i f help or backing of any time is needed.  
+ 
+4).  A).  Advertisement for Bitcoin : “It is us who will mold the future; fight the market, buy Bitcoin” 
+B).  The use of cleft sentences presupposes t hat there is some entity  that will mold the future.  By the 
+context of the advertisement, it is those who buy and use cr yptocurrency, specifically Bitcoin, who will 
+be arb iters of the future  and progress.  
+C).  Question  Test : “Who is it that wil l mold the future?” maintains that there exist s somebody or some 
+people who will mold the future .   
+D).  The presupposition contributes  to the advertisement ’s goal of calling the viewer to action and 
+making the m feel like an acti ve agent in producing a more progressive  and desirable future.  This makes 
+the viewer more likely to buy cryptocurrency , as they would want to be a part of a movement towards 
+progress  and s haping the future world.   
+ 
+5).  A).  ULTA : “Start treating your skin right with ULTA” 
+B).  The use of a presuppositional predicate “start” impli cates that the person is not treating their skin 
+right at this moment .  It asserts that using U LTA is a method to treat your skin well and healthily.  
+C).  Negation Test: “Do no start treating your skin right with ULTA ” maintains the presupposition that a 
+person is currently  not treating their skin right.  
+D).  The pres upposition  advances the goal of calling the viewer  out for not treating the mselves and their 
+skin adeq uately to motivate  them to begin skin treatment at this moment.  The product is viewed as the 
+solution and reme dy to their current oversight , making it even more attractive  and marketable.     
+
