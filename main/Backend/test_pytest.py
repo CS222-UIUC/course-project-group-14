@@ -10,10 +10,10 @@ def test_write():
     main.mergeList(list1, list2, merged_list) 
     assert merged_list == result
 
-def test_parse():
-    main.FindingDates('Main/Backend/input.csv', 'Main/Backend/result.csv')
-    assert True
-
 def test_parse2():
     main.ReadPDF()
     assert exists("Main/Backend/parsed.txt")
+
+def test_parse():
+    main.FindingDates()
+    assert exists("Main/Backend/result.csv")
