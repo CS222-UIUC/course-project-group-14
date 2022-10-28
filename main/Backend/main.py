@@ -14,6 +14,10 @@ def ReadPDF(): # function that reads/outputs entire pdf file for parsing
     # txt file we write to in order to parse
     txtFile = open("Main/Backend/parsed.txt", "a")
 
+    # clears previous entry
+    with open("Main/Backend/parsed.txt", 'w') as o:
+        o.write("")
+        
     for i in range(0, numPages): # read entire file
         txtFile.write(pdfReader.getPage(i).extractText())
         txtFile.write("\n\n")
@@ -28,24 +32,25 @@ def mergeList(list1, list2, merged_list):
             
 
 def FindingDates():
+    merge1_list = []
+    merge2_list = []
+    merge3_list = []
+    merge_week_list = []
+    final_list = []
+    add_time_list = []
+    week_am_pm_list = []
+    ist_list = []
+    not_february_ist_list = []
+    time_list = []
+    not_february_time_list = []
+    timeist_list = []
+    midterm_list = []
+    test_list = ["March 3", "December 24", "Midterm"]
     with open("Main/Backend/parsed.txt", 'r') as f:
         for line in f:
             #parse
-            merge1_list = []
-            merge2_list = []
-            merge3_list = []
-            merge_week_list = []
-            final_list = []
-            add_time_list = []
-            week_am_pm_list = []
-            ist_list = []
-            not_february_ist_list = []
-            time_list = []
-            not_february_time_list = []
-            timeist_list = []
-            test_list = ["March 3", "December 24", "Midterm"]
-            
-            
+            print(line)
+            midterm_list = re.findall("midterm", line)
             theMonthOf_list = re.findall("(/sthe/s)(1st|2nd|3rd|[4-9]th|21st|22nd|23rd|2[04-9]th|1[0-9]th|30th|31st)(/sof/s)(January|February|March|April|May|June|July|August|September|October|November|December)(,/s/d{4})?", line)                  
             
             thirtyone_ist_list = re.findall("(Monday,/s|Tuesday,/s|Wednesday,/s|Thursday,/s|Friday,/s|Saturday,/s|Sunday,/s)?(January|March|May|July|August|October|December)(/s1st|/s2nd|/s3rd|/s[4-9]th|/s21st|/s22nd|/s23rd|/s2[04-9]th|/s1[0-9]th|/s30th|/s31st)?(, /d{4})?", line)
@@ -61,9 +66,8 @@ def FindingDates():
             mergeList(thirtyone_time_list, thirty_time_list, not_february_time_list)
             mergeList(feb_time_list, not_february_time_list, time_list)
 
-            with open("Main/Backend/result.csv", 'w') as file:
-                writer = csv.writer(file)
-                writer.writerow(test_list)
+    with open("Main/Backend/result.csv", 'w') as file:
+        writer = csv.writer(file)
+        writer.writerow(midterm_list)
             
 
-#FindingDates('input.csv', 'result.csv')
