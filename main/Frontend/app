@@ -31,6 +31,7 @@ def home():
 def complete():
     # parse here
     backend.ReadPDF()
+    #backend.FindingDates(file, output)
     return render_template("complete.html")
 
 @app.route('/download') # allows downloading
