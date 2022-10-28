@@ -7,7 +7,7 @@ from wtforms.validators import InputRequired
 import sys
 sys.path.insert(0, './')
 
-import main.Backend.main as backend
+import Main.Backend.main as backend
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'password'
@@ -31,7 +31,7 @@ def home():
 def complete():
     # parse here
     backend.ReadPDF()
-    #backend.FindingDates(file, output)
+    backend.FindingDates()
     return render_template("complete.html")
 
 @app.route('/download') # allows downloading
