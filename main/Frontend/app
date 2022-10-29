@@ -7,7 +7,7 @@ from wtforms.validators import InputRequired
 import sys
 sys.path.insert(0, './')
 
-import Main.Backend.main as backend
+import main.Backend.main as backend
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'password'
