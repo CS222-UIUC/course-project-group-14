@@ -1,5 +1,21 @@
 <!doctype html>
 <html>
+    <style>
+        .column {
+            float: left;
+            padding: 10px;
+            height: 250px;
+        }
+
+
+        .margins{
+            width: 20%;
+        }
+
+        .quarters{
+            width: 25%;
+        }
+    </style>
     <head>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="icon" href = "https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" type="image/icon type">
@@ -37,6 +53,46 @@
                 </form>
               </div>
             </nav>
+
+            <div class = "row">
+                <div class = "quarters">
+                    <div class="margins"></div>
+                </div>
+                <div class = "quarters">
+                    <div class="margins"></div>
+                    <div class = "left-text">
+                        <h3>
+                            {$ block content $}{$ endblock content $}
+                        </h3>
+                    </div>
+                </div>
+                <div class = "quarters">
+                    <div class= = "margins"></div>
+                    <div class = "right-pics">
+                        <div class="carousel slide" id="carouselExampleIndicators" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                              </ol>
+                            <div class = "carousel-inner">
+                                <div class="carousel-item active"> 
+                                    <img src="{{url_for('static', filename='UIUC - White.png')}}" width="200" height="200" alt="">
+                                </div>
+                                <div class="carousel-item"> 
+                                    <img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="200" height="200" alt="">
+                                </div>
+                                <div class="carousel-item"> 
+                                    <img src="{{url_for('static', filename='UIUC - White.png')}}" width="200" height="200" alt="">
+                                </div>
+                            </div>
+                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                              </a>                    </div>
+                    </div>
+                </div>
+            </div>
         {% block content %}
         {% endblock %}
 
