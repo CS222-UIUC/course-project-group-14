@@ -39,5 +39,21 @@ def download_file():
     path = "../Backend/result.csv"
     return send_file(path, as_attachment=True)
 
+@app.route('/chris') # Chris' personal html page
+def chris():
+    return render_template("chris.html");
+
+@app.route('/erik') # Erik's personal html page
+def erik():
+    return render_template("erik.html");
+
+@app.route('/abena') # Abena's personal html page
+def abena():
+    return render_template("abena.html");
+
+@app.route('/aditi') # Aditi's personal html page
+def aditi():
+    return render_template("aditi.html");
+
 if __name__ == "__main__":
     app.run(debug = True)
