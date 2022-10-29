@@ -8,12 +8,16 @@
         }
 
 
-        .margins{
-            width: 20%;
+        .ten{
+            width: 10%;
         }
 
-        .quarters{
-            width: 25%;
+        .forty {
+            width: 40%;
+        }
+
+        .thirty {
+            width: 30%;
         }
     </style>
     <head>
@@ -55,20 +59,24 @@
             </nav>
 
             <div class = "row">
-                <div class = "quarters">
-                    <div class="margins"></div>
+                <div class = "ten">
                 </div>
-                <div class = "quarters">
+                <div class = "forty">
                     <div class="margins"></div>
                     <div class = "left-text">
-                        <h3>
-                            {$ block content $}{$ endblock content $}
-                        </h3>
+                        <h2>
+                            {% block h2 %}{% endblock h2 %}
+                        </h2>
+                        <br>
+                        {% block h4 %}{% endblock h4 %}
+                        <br>
                     </div>
                 </div>
-                <div class = "quarters">
+                <div class = "ten"></div>
+                <div class = "thirty">
                     <div class= = "margins"></div>
                     <div class = "right-pics">
+                        <br><br><br>
                         <div class="carousel slide" id="carouselExampleIndicators" data-ride="carousel">
                             <ol class="carousel-indicators">
                                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -77,19 +85,20 @@
                               </ol>
                             <div class = "carousel-inner">
                                 <div class="carousel-item active"> 
-                                    <img src="{{url_for('static', filename='UIUC - White.png')}}" width="200" height="200" alt="">
+                                    <img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="380" height="350" alt="">
                                 </div>
                                 <div class="carousel-item"> 
-                                    <img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="200" height="200" alt="">
+                                    <img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="380" height="350" alt="">
                                 </div>
                                 <div class="carousel-item"> 
-                                    <img src="{{url_for('static', filename='UIUC - White.png')}}" width="200" height="200" alt="">
+                                    <img src="{{url_for('static', filename='UIUC - Navy.png')}}" width="380" height="350" alt="">
                                 </div>
                             </div>
                             <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
                                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                                 <span class="sr-only">Next</span>
-                              </a>                    </div>
+                              </a>                    
+                            </div>
                     </div>
                 </div>
             </div>
