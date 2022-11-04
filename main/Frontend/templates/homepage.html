@@ -10,7 +10,7 @@
     .column {
         float: left;
         padding: 10px;
-        height: 250px; /* Should be removed. Only for demonstration */
+        height: 250px;
     }
     .left, .right, .middle {
         width: 33%;
@@ -19,11 +19,14 @@
 
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="icon" href = "https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png" type="image/icon type">
+    <link rel="icon" href = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN0AAADkCAMAAAArb9FNAAAAtFBMVEX///8UKEvpSjdKVGwJIkcAED3oOyOzucNOWnMGIUjpRTH74d797epFVHDveGzoNx0AGEL3+PmLlKL4zclAT2wAADoAG0PY3OF9h5YrPFv++fnzoprrW0noQSvf4uYAET/Dx82gprH2wrz63tvtbV/qTz351dLznJTsYlI5RWBud4oAADQAACi6v8djb4UiNlUAAC1ZZXv/8/LqLAnnKgDtbF/xjYP0rKXugHT2urL4z8voMxUWcB31AAADgklEQVR4nO3ce1faMBiAcWUYJTKqU1CRDLVymc45US7K9/9ew120KQPflbQk7nn+fU9Jf0cOh7TFjQ0iIiIi8qDPXz4E3tUy3XU57Bo7y3T1zbCroAs2dOGGLtzQhRu6cEMXbujCDV24oQs3dOGGLtzQhRu6cEMXbujCbbnu61a6dln80uWt9tzhGZJbGnPH1g+X6Pa357o5kfIq327mD8/QrRh3PH/w2RLd3/oo1e19+sdXXtCJVNfeXn2xw4J1++I3yxa6N0KHTho6dLLQoZOGDp0sdOikoUMnCx06aejQyUKHTpyfusrVmd2+bIEj+6gb8ZX2QnWblbbV9yPZAsfX1mHyuyTF6lLVpbpGxgXQoUOHDh06dOjQoUOHDh26/0MnfsYPHTp06NChQ4cOHTp06NChQ4cOHTp06NChy11XsX+3L38Kzjpsz09d5e7cTvgE41nqsEKfYCz+fwUU+fRp0bpinxxGh04aOnSy0KGThg6dLHTopKFDJwsdOmno0MlCh05awf8roFGuiGo70t3KFixX6g50VzvCPp6vvtis/TvxgmdOFiQiImG7yeKBNataw6o1G8SLZxvWbHfZgk17FiezTyZT/Ui9dn9gzXrTxGzas2YHD4lZdGnNqsmZUtas2UkuOLXpteTs4WJ13aUuvaZs3alJzMyprVOJma7ZuqiUzNa1kgualM46mSB1yRE6dOjQoUOHDt3yhu9blzxLn3R66kDXHKnXl/RIZzoOcLO6/ReENzptRg52d78aa+2XTg27rmzPpzOJPNIZPXZoe+6iY3zRRZPUdQwHNXuR9kFnSvY5uCruq7XrjLKv3rjsMVq3rh875KSr2osVrsvnTbmgwnWFhg5dMnTFhC5cXS93nVqj7qmT4OWhUzVnu7gMDUbRy27Zvc7o9PY7Hp8+udzZvVXcUjnpdDSyb7w+D7uPoyJ1s4270XnoVK5fmOVVJz99TnWm5Hr7nb2LlnGrUzlsv7M36Cnt7r65arm5mOeueHjvShf15j5N1t/Yka7mx6fJ8rLqwggdOj9Dh87P3rfuaaplOhOi7vc9sbd0WtV8+sIsL3HHfaHOePeFWV73zwMTC3Ra9dZ53WTlxsYs1vmy/c5etRYt0OnIn+139g5mny7zOq0mQb8pX2r2jEnrTKvQG425Fg/Tv0fwcfudPfsvNSj2miQRERERERGF3g+gsPYgFiqFJgAAAABJRU5ErkJggg==" type="image/icon type">
     <title> SyllaBestie Homepage </title>
 </head>
 <body bgcolor="#E84A27">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">
+        <img src="{{url_for('static', filename='UIUC - White.png')}}" width="30" height="30" alt="">
+      </a>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
@@ -34,16 +37,19 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Dropdown
+                Site Creators
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Action</a>
-                <a class="dropdown-item" href="#">Another action</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">Something else here</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/chris">Chris Tang</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/erik">Erik Ly</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/abena">Abena Laast</a>
+                <a class="dropdown-item" href="http://127.0.0.1:5000/aditi">Aditi Roy</a>
               </div>
             </li>
           </ul>
+          <span class="navbar-text">
+            Create calendar entries from syllabi in seconds!
+          </span>
           <form class="form-inline my-2 my-lg-0">
           </form>
         </div>
