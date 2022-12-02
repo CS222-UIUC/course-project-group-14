@@ -8,8 +8,8 @@ import pandas as pd
 def ReadPDF(): # function that reads/outputs entire pdf file for parsing
     print("HERE")
     pdfFile = open('Main/Frontend/static/file.pdf', 'rb') 
-    pdfReader = PyPDF2.PdfFileReader(pdfFile)
-    numPages = pdfReader.numPages
+    pdfReader = PyPDF2.PdfReader(pdfFile)
+    numPages = len(pdfReader.pages)
 
     # txt file we write to in order to parse
     txtFile = open("Main/Backend/parsed.txt", "a")
@@ -19,7 +19,7 @@ def ReadPDF(): # function that reads/outputs entire pdf file for parsing
         o.write("")
 
     for i in range(0, numPages): # read entire file
-        txtFile.write(pdfReader.getPage(i).extractText())
+        txtFile.write(pdfReader.getPage(i).extract_text())
         txtFile.write("\n\n")
 
     pdfFile.close()
@@ -33,36 +33,37 @@ def mergeList(list1, list2, merged_list):
 
 def FindingDates():
     midterm_list = []
+    slash_date_list = []
     test_list = ["March 3", "December 24", "Midterm"]
 
     file1 = open("Main/Backend/parsed.txt", 'r')
     lines = file1.readlines()
     for line in lines:
         #parse
-        words = ["midterm"]
-        pattern = r'\W.*?({})\W.*?'.format('|'.join(words))
-        midterm = re.findall(pattern, line, flags=re.IGNORECASE)
+        word1 = ["midterm"]
+        pattern1 = r'\W.*?({})\W.*?'.format('|'.join(word1))
+        midterm = re.findall(pattern1, line, flags=re.IGNORECASE)
         if len(midterm) != 0:
             midterm_list.append(midterm)
-        #midterm_list = re.findall(r"/W.*?({})/W.*?".format('|'.join(words)), line)
-        
-        # theMonthOf_list = re.findall("(/sthe/s)(1st|2nd|3rd|[4-9]th|21st|22nd|23rd|2[04-9]th|1[0-9]th|30th|31st)(/sof/s)(January|February|March|April|May|June|July|August|September|October|November|December)(,/s/d{4})?", line)                  
-        
-        # thirtyone_ist_list = re.findall("(Monday,/s|Tuesday,/s|Wednesday,/s|Thursday,/s|Friday,/s|Saturday,/s|Sunday,/s)?(January|March|May|July|August|October|December)(/s1st|/s2nd|/s3rd|/s[4-9]th|/s21st|/s22nd|/s23rd|/s2[04-9]th|/s1[0-9]th|/s30th|/s31st)?(, /d{4})?", line)
-        # thirty_ist_list = re.findall("(Monday,/s|Tuesday,/s|Wednesday,/s|Thursday,/s|Friday,/s|Saturday,/s|Sunday,/s)?(April|June|September|November)(/s1st|/s2nd|/s3rd|/s[4-9]th|/s21st|/s22nd|/s23rd|/s2[04-9]th|/s1[0-9]th|/s30th)?(, /d{4})?", line)
-        # feb_ist_list = re.findall("(Monday,/s|Tuesday,/s|Wednesday,/s|Thursday,/s|Friday,/s|Saturday,/s|Sunday,/s)?(February)(/s1st|/s2nd|/s3rd|/s[4-9]th|/s21st|/s22nd|/s23rd|/s2[04-9]th|/s1[0-9]th)?(, /d{4})?", line)
-        
-        # mergeList(thirtyone_ist_list, thirty_ist_list, not_february_ist_list)
-        # mergeList(feb_ist_list, not_february_ist_list, ist_list)
-        # thirtyone_time_list = re.findall("(January|March|May|July|August|October|December)(/s[0-9]|/s1[0-9]|/s2[0-9]|/s3[0-1])(, /d{4})", line)
-        # thirty_time_list = re.findall("(April|June|September|November)(/s[0-9]|/s1[0-9]|/s2[0-9]|/s30)(, /d{4})", line)
-        # feb_time_list = re.findall("(February)(/s[0-2]?[0-9]?)(, /d{4})", line)
-        
-        # mergeList(thirtyone_time_list, thirty_time_list, not_february_time_list)
-        # mergeList(feb_time_list, not_february_time_list, time_list)
 
+        word2 = ["test"]
+        pattern2 = r'\W.*?({})\W.*?'.format('|'.join(word2))
+        date_pat = r'((1[0-2])|([1-9]))/(([1-2][0-9])|([1-9])|(3[0-1]))'
+        test = re.findall("^([1-9] |1[0-9]| 2[0-9]|3[0-1])/([1-9] |1[0-2])$", line, flags=re.IGNORECASE)
+        if len(test) != 0:
+            midterm_list.append(test)
+        # begin with 1-31 followed by slash, followed by 1-12
+        # slash_date_list = re.findall("^([1-9] |1[0-9]| 2[0-9]|3[0-1])/([1-9] |1[0-2])$", line, flags=re.IGNORECASE)
+        slash_date_pattern = re.compile('\\b((0[1-9]|1[0-2]|[1-9])/([1-9]|0[1-9]|[1-2][0-9]|3[0-1]))\\b')
+        slash_dates = slash_date_pattern.findall(line)
+        if len(slash_dates) != 0:
+            slash_date_list.append(slash_dates)
+    
+    findlist = []
     file = open("Main/Backend/result.csv", 'w')
     writer = csv.writer(file)
-    writer.writerow(midterm_list)
+    findlist.append(midterm_list[0][0])
+    findlist.append(slash_date_list[0][0][0])
+    writer.writerow(findlist)
             
 
