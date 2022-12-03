@@ -13,7 +13,7 @@ Every semester, students receive syllabi from every class with a multitude of in
 
 
 ## Group Members and Roles
-Chris Tang - Software Developer for Frontend and Server
+Chris Tang - Software Developer for Frontend and Server     
 Aditi Roy - 
 Abena Laast - 
 Erik Ly - 
