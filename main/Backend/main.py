@@ -88,7 +88,5 @@ def FindingDates():
         findlist.append("ONLINE")
         findlist.append("FALSE")
         writer.writerow(findlist)
-    #writer.writerow(midterm_list)
-    #writer.writerow(slash_date_list)
             
 
