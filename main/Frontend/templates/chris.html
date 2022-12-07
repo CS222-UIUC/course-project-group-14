@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <title>{% block title %}Chris Tang{% endblock %}</title>
+{% endblock %}
+
+{% block h2 %}<br>Chris Tang{% endblock %}
+{% block h4 %}Hi, my name is Chris! I'm a junior studying Computer Science and Philosophy at the University of Illinois at Urbana-Champaign and one of the software developers of SyllaBestie.  
+<br><br>
+During the course of this project, I designed and implemented the frontend using Flask, Jinja, and Bootstrap.  Additionally, I  helped with the backend functionality of parsing calendar entries from syllabi in Python.  
+<br><br>
+In my free time, I love cooking, playing racquet sports, bouldering, traveling, and solving challenging problems! If you have any cool projects you'd like me to be a part of or would like to connect, please feel free to email me at: chtang3@illinois.edu. {% endblock %}
+
+{%block h6%}{{url_for('static', filename='Chris/Chris - Bromo.jpg')}}{% endblock %}
+{%block h7%}{{url_for('static', filename='Chris/Chris - Cruise.jpg')}}{% endblock %}
+{%block h8%}{{url_for('static', filename='Chris/Chris - Monkey.jpg')}}{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <title>{% block title %}  Aditi Roy  {% endblock %}</title>
+{% endblock %}
+
+{% block h2 %} Aditi Roy {% endblock %}
+{% block h4 %}Hi, my name is Aditi! I'm a sophomore studying Computer Science + Economics at the University of Illinois, Urbana-Champaign.
+<br><br>
+I'm from Chester, New Jersey and in my free time I love to play sitar and cook.
+<br><br>
+I was a software developer fot SyllaBestie and hope you find it useful!{% endblock %}
+
+{%block h6%}{{url_for('static', filename='aditi/aditi1.jpg')}}{% endblock %}
+{%block h7%}{{url_for('static', filename='aditi/aditi2.jpg')}}{% endblock %}
+{%block h8%}{{url_for('static', filename='aditi/aditi3.jpg')}}{% endblock %}

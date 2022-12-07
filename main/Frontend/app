@@ -1,0 +1,59 @@
+from flask import *
+from werkzeug.utils import secure_filename
+from flask_wtf import FlaskForm
+from wtforms import FileField, SubmitField
+import os 
+from wtforms.validators import InputRequired
+import sys
+sys.path.insert(0, './')
+
+import Main.Backend.main as backend
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = 'password'
+app.config['UPLOAD_FOLDER'] = 'static'
+
+class UploadFileForm(FlaskForm):
+    file = FileField("File", validators=[InputRequired()])
+    submit = SubmitField("Upload File")
+
+@app.route("/", methods=['GET', 'POST'])
+@app.route("/home", methods=['POST']) # homepage
+def home():
+    form = UploadFileForm()
+    if form.validate_on_submit():
+        file = form.file.data # First grab the file
+        file.save(os.path.join(os.path.abspath(os.path.dirname(__file__)),app.config['UPLOAD_FOLDER'],secure_filename("file.pdf"))) # Then save the file
+        return render_template("currently_parsing.html", name = file)
+    return render_template("homepage.html", form = form)
+
+@app.route('/complete') # parsing is done, CSV can be downloaded
+def complete():
+    # parse here
+    backend.ReadPDF()
+    backend.FindingDates()
+    return render_template("complete.html")
+
+@app.route('/download') # allows downloading
+def download_file():
+    path = "../Backend/result.csv"
+    return send_file(path, as_attachment=True)
+
+@app.route('/chris') # Chris' personal html page
+def chris():
+    return render_template("chris.html");
+
+@app.route('/erik') # Erik's personal html page
+def erik():
+    return render_template("erik.html");
+
+@app.route('/abena') # Abena's personal html page
+def abena():
+    return render_template("abena.html");
+
+@app.route('/aditi') # Aditi's personal html page
+def aditi():
+    return render_template("aditi.html");
+
+if __name__ == "__main__":
+    app.run(debug = True)

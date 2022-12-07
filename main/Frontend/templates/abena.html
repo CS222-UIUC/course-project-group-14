@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <title>{% block title %} -- Abena Laast -- {% endblock %}</title>
+{% endblock %}
+
+{% block h2 %} -- Abena Laast -- {% endblock %}
+{% block h4 %}I am from Northern Virginia, and I came to Illinois to major in computer science. 
+As a sophomore at UIUC, I have had plenty of opportunities to work on projects in and outside of the classroom.
+I particularly enjoy working on the dashboard for the Illini Formula Electric racing team.
+<br><br>
+I have a mixture of frontend and backend programming experience, and I did not stick to one side for this project. 
+I hope that this tool comes in handy to many students.{% endblock %}
+<br><br>
+
+
+{%block h6%}{{url_for('static', filename='profile_photo.jpg')}}{% endblock %}
+{%block h7%}{{url_for('static', filename='Abena-photo2')}}{% endblock %}
+{%block h8%}{{url_for('static', filename='Abena-photo3')}}{% endblock %}

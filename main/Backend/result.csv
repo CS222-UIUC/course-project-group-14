@@ -1,0 +1,46 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
+Introduction to linear systems Matrices,08/22/2022,12:00AM,08/22/2022,11:59PM,YES, ,ONLINE,FALSE
+Echelon form of matrices Gaussian Elimination,08/24/2022,12:00AM,08/24/2022,11:59PM,YES, ,ONLINE,FALSE
+Python tutorial,08/26/2022,12:00AM,08/26/2022,11:59PM,YES, ,ONLINE,FALSE
+Linear combinations Matrix vector multiplication,08/29/2022,12:00AM,08/29/2022,11:59PM,YES, ,ONLINE,FALSE
+Matrix multiplication Properties of matrix multiplication,08/31/2022,12:00AM,08/31/2022,11:59PM,YES, ,ONLINE,FALSE
+Working with vectors,09/02/2022,12:00AM,09/02/2022,11:59PM,YES, ,ONLINE,FALSE
+No class Labor Day,09/05/2022,12:00AM,09/05/2022,11:59PM,YES, ,ONLINE,FALSE
+Elementary matrices Matrix inverses and computation,09/07/2022,12:00AM,09/07/2022,11:59PM,YES, ,ONLINE,FALSE
+Matrix operations,09/09/2022,12:00AM,09/09/2022,11:59PM,YES, ,ONLINE,FALSE
+LU decomposition Solving linear systems using LU,09/12/2022,12:00AM,09/12/2022,11:59PM,YES, ,ONLINE,FALSE
+Mass spring system Inner products,09/14/2022,12:00AM,09/14/2022,11:59PM,YES, ,ONLINE,FALSE
+Midterm,09/13/2022,12:00AM,09/13/2022,11:59PM,YES, ,ONLINE,FALSE
+Subspaces of Rn Column spaces and nullspaces,09/19/2022,12:00AM,09/19/2022,11:59PM,YES, ,ONLINE,FALSE
+Abstract vector spaces Linear independence,09/21/2022,12:00AM,09/21/2022,11:59PM,YES, ,ONLINE,FALSE
+Solving systems of linear equations,09/23/2022,12:00AM,09/23/2022,11:59PM,YES, ,ONLINE,FALSE
+Basis and dimension The four fundamental subspaces,09/26/2022,12:00AM,09/26/2022,11:59PM,YES, ,ONLINE,FALSE
+Orthogonal complements Graphs,09/28/2022,12:00AM,09/28/2022,11:59PM,YES, ,ONLINE,FALSE
+Graphs and Algebraic Graph Theory,09/30/2022,12:00AM,09/30/2022,11:59PM,YES, ,ONLINE,FALSE
+Coordinates Orthonormal bases,10/03/2022,12:00AM,10/03/2022,11:59PM,YES, ,ONLINE,FALSE
+Linear transformations Coordinate matrix,10/05/2022,12:00AM,10/05/2022,11:59PM,YES, ,ONLINE,FALSE
+Data compression,10/07/2022,12:00AM,10/07/2022,11:59PM,YES, ,ONLINE,FALSE
+Determinants Cofactor expansion,10/10/2022,12:00AM,10/10/2022,11:59PM,YES, ,ONLINE,FALSE
+Eigenvectors and Eigenvalues and their computation,10/12/2022,12:00AM,10/12/2022,11:59PM,YES, ,ONLINE,FALSE
+Midterm,10/11/2022,12:00AM,10/11/2022,11:59PM,YES, ,ONLINE,FALSE
+Properties of eigenvectors Markov matrices,10/17/2022,12:00AM,10/17/2022,11:59PM,YES, ,ONLINE,FALSE
+Diagonalization,10/19/2022,12:00AM,10/19/2022,11:59PM,YES, ,ONLINE,FALSE
+Markov Chains,10/21/2022,12:00AM,10/21/2022,11:59PM,YES, ,ONLINE,FALSE
+Powers of matrices Matrix Exponential,10/24/2022,12:00AM,10/24/2022,11:59PM,YES, ,ONLINE,FALSE
+Linear Di erential Equations,10/26/2022,12:00AM,10/26/2022,11:59PM,YES, ,ONLINE,FALSE
+Dynamical Systems,10/28/2022,12:00AM,10/28/2022,11:59PM,YES, ,ONLINE,FALSE
+Orthogonal projection onto lines and subspaces,10/31/2022,12:00AM,10/31/2022,11:59PM,YES, ,ONLINE,FALSE
+Least squares solutions Linear Regression,11/02/2022,12:00AM,11/02/2022,11:59PM,YES, ,ONLINE,FALSE
+Midterm,11/01/2022,12:00AM,11/01/2022,11:59PM,YES, ,ONLINE,FALSE
+Gram Schmidt process and QR decomposition,11/07/2022,12:00AM,11/07/2022,11:59PM,YES, ,ONLINE,FALSE
+No class Election Day,11/08/2022,12:00AM,11/08/2022,11:59PM,YES, ,ONLINE,FALSE
+Spectral Theorem,11/09/2022,12:00AM,11/09/2022,11:59PM,YES, ,ONLINE,FALSE
+Linear Regression,11/10/2022,12:00AM,11/10/2022,11:59PM,YES, ,ONLINE,FALSE
+SVD,11/14/2022,12:00AM,11/14/2022,11:59PM,YES, ,ONLINE,FALSE
+Low rank approximations Pseudo Inverse,11/16/2022,12:00AM,11/16/2022,11:59PM,YES, ,ONLINE,FALSE
+SVD and applications,11/18/2022,12:00AM,11/18/2022,11:59PM,YES, ,ONLINE,FALSE
+No class Fall break,11/21/2022,12:00AM,11/21/2022,11:59PM,YES, ,ONLINE,FALSE
+Principal Component Analysis,11/28/2022,12:00AM,11/28/2022,11:59PM,YES, ,ONLINE,FALSE
+Review complex numbers Complex linear algebra,11/30/2022,12:00AM,11/30/2022,11:59PM,YES, ,ONLINE,FALSE
+Principal Component Analysis,12/02/2022,12:00AM,12/02/2022,11:59PM,YES, ,ONLINE,FALSE
+Leeway and Review,12/05/2022,12:00AM,12/05/2022,11:59PM,YES, ,ONLINE,FALSE

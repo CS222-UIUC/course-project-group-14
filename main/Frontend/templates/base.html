@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+    <style>
+        .column {
+            float: left;
+            padding: 10px;
+            height: 250px;
+        }
+
+
+        .ten{
+            width: 10%;
+        }
+
+        .forty {
+            width: 40%;
+        }
+
+        .thirty {
+            width: 30%;
+        }
+    </style>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="icon" href = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN0AAADkCAMAAAArb9FNAAAAtFBMVEX///8UKEvpSjdKVGwJIkcAED3oOyOzucNOWnMGIUjpRTH74d797epFVHDveGzoNx0AGEL3+PmLlKL4zclAT2wAADoAG0PY3OF9h5YrPFv++fnzoprrW0noQSvf4uYAET/Dx82gprH2wrz63tvtbV/qTz351dLznJTsYlI5RWBud4oAADQAACi6v8djb4UiNlUAAC1ZZXv/8/LqLAnnKgDtbF/xjYP0rKXugHT2urL4z8voMxUWcB31AAADgklEQVR4nO3ce1faMBiAcWUYJTKqU1CRDLVymc45US7K9/9ew120KQPflbQk7nn+fU9Jf0cOh7TFjQ0iIiIi8qDPXz4E3tUy3XU57Bo7y3T1zbCroAs2dOGGLtzQhRu6cEMXbujCDV24oQs3dOGGLtzQhRu6cEMXbujCbbnu61a6dln80uWt9tzhGZJbGnPH1g+X6Pa357o5kfIq327mD8/QrRh3PH/w2RLd3/oo1e19+sdXXtCJVNfeXn2xw4J1++I3yxa6N0KHTho6dLLQoZOGDp0sdOikoUMnCx06aejQyUKHTpyfusrVmd2+bIEj+6gb8ZX2QnWblbbV9yPZAsfX1mHyuyTF6lLVpbpGxgXQoUOHDh06dOjQoUOHDh26/0MnfsYPHTp06NChQ4cOHTp06NChQ4cOHTp06NChy11XsX+3L38Kzjpsz09d5e7cTvgE41nqsEKfYCz+fwUU+fRp0bpinxxGh04aOnSy0KGThg6dLHTopKFDJwsdOmno0MlCh05awf8roFGuiGo70t3KFixX6g50VzvCPp6vvtis/TvxgmdOFiQiImG7yeKBNataw6o1G8SLZxvWbHfZgk17FiezTyZT/Ui9dn9gzXrTxGzas2YHD4lZdGnNqsmZUtas2UkuOLXpteTs4WJ13aUuvaZs3alJzMyprVOJma7ZuqiUzNa1kgualM46mSB1yRE6dOjQoUOHDt3yhu9blzxLn3R66kDXHKnXl/RIZzoOcLO6/ReENzptRg52d78aa+2XTg27rmzPpzOJPNIZPXZoe+6iY3zRRZPUdQwHNXuR9kFnSvY5uCruq7XrjLKv3rjsMVq3rh875KSr2osVrsvnTbmgwnWFhg5dMnTFhC5cXS93nVqj7qmT4OWhUzVnu7gMDUbRy27Zvc7o9PY7Hp8+udzZvVXcUjnpdDSyb7w+D7uPoyJ1s4270XnoVK5fmOVVJz99TnWm5Hr7nb2LlnGrUzlsv7M36Cnt7r65arm5mOeueHjvShf15j5N1t/Yka7mx6fJ8rLqwggdOj9Dh87P3rfuaaplOhOi7vc9sbd0WtV8+sIsL3HHfaHOePeFWV73zwMTC3Ra9dZ53WTlxsYs1vmy/c5etRYt0OnIn+139g5mny7zOq0mQb8pX2r2jEnrTKvQG425Fg/Tv0fwcfudPfsvNSj2miQRERERERGF3g+gsPYgFiqFJgAAAABJRU5ErkJggg==" type="image/icon type">
+        <title> {% block title %} {% endblock title %} </title>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+              <img src="{{url_for('static', filename='UIUC - White.png')}}" width="30" height="30" alt="">
+            </a>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="http://127.0.0.1:5000/">Home <span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/CS222-UIUC/course-project-group-14"> GitHub </a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Site Creators
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <a class="dropdown-item" href="http://127.0.0.1:5000/chris">Chris Tang</a>
+                      <a class="dropdown-item" href="http://127.0.0.1:5000/erik">Erik Ly</a>
+                      <a class="dropdown-item" href="http://127.0.0.1:5000/abena">Abena Laast</a>
+                      <a class="dropdown-item" href="http://127.0.0.1:5000/aditi">Aditi Roy</a>
+                    </div>
+                  </li>
+                </ul>
+                <span class="navbar-text">
+                  Create calendar entries from syllabi in seconds!
+                </span>
+                <form class="form-inline my-2 my-lg-0">
+                </form>
+              </div>
+            </nav>
+
+            <div class = "row">
+                <div class = "ten">
+                </div>
+                <div class = "forty">
+                    <div class="margins"></div>
+                    <div class = "left-text">
+                        <h2>
+                            {% block h2 %}{% endblock h2 %}
+                        </h2>
+                        <br>
+                        {% block h4 %}{% endblock h4 %}
+                        <br>
+                    </div>
+                </div>
+                <div class = "ten"></div>
+                <div class = "thirty">
+                    <div class= = "margins"></div>
+                    <div class = "right-pics">
+                        <br><br><br>
+                        <div class="carousel slide" id="carouselExampleIndicators" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                              </ol>
+                            <div class = "carousel-inner">
+                                <div class="carousel-item active"> 
+                                    <img src= {%block h6%}{%endblock h6%} width="450" height="400" alt="">
+                                </div>
+                                <div class="carousel-item"> 
+                                    <img src="{%block h7%}{%endblock h7%}" width="450" height="400" alt="">
+                                </div>
+                                <div class="carousel-item"> 
+                                    <img src="{%block h8%}{%endblock h8%}" width="450" height="400" alt="">
+                                </div>
+                            </div>
+                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                              </a>                    
+                            </div>
+                    </div>
+                </div>
+            </div>
+        {% block content %}
+        {% endblock %}
+
+
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>
