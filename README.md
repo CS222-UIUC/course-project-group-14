@@ -26,5 +26,5 @@ To utilize the web application, please navigate to: <a href="https://chtang.pyth
 ## Group Members and Roles
 Chris Tang - Software Developer for Frontend and Server     
 Aditi Roy - Software Developer for Backend   
-Abena Laast -     
+Abena Laast - Software Developer for Frontend and Backend
 Erik Ly -     
