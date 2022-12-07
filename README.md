@@ -21,7 +21,7 @@ The server is run on pythonanywhere.com, free web hosting server for Python and 
 ## Installation Instructions
 To install the 
 
-To utilize the web application, please navigate to: [here](chtang.pythonanywhere.com).
+To utilize the web application, please navigate to: <a href="https://chtang.pythonanywhere.com" target="_blank">here</a>.
 
 ## Group Members and Roles
 Chris Tang - Software Developer for Frontend and Server     
