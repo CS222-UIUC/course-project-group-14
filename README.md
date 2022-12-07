@@ -10,8 +10,7 @@ Every semester, students receive syllabi from every class with a multitude of in
 The architecture for SyllaBestie consisted of the integration of a frontend, a backend, and a server.
 
 ### Frontend
-The frontend consisted of Python, Flask, Jinja2, and Bootstrap.  The frontend allowed the user to interact with the backend with a pleasing-to-the-eye web application.  Using HTML, CSS, and Bootstrap, templates for webpages were created to display instructions, buttons, and an interface that the user could use to parse syllabi and call backend components.  We used libraries for Flask and frontned forms/security for the rendering of webpages and ensuring downloading of files was consistent.  
-The main webpages for the web app include: the homepage, the intermediate parsing page, the download page, and profile pages for site developers.  
+The frontend consisted of Python, Flask, Jinja2, and Bootstrap.  The frontend allowed the user to interact with the backend with a pleasing-to-the-eye web application.  Using HTML, CSS, and Bootstrap, templates for webpages were created to display instructions, buttons, and an interface that the user could use to parse syllabi and call backend components.  We used libraries for Flask and frontned forms/security for the rendering of webpages and ensuring downloading of files was consistent.  The main webpages for the web app include: the homepage, the intermediate parsing page, the download page, and profile pages for site developers.  
 
 ### Backend
 The backend consisted of Python and Flask.  Flask was chosen over other libraries for its lightweight characteristic as well as its ability to operate as a simple and clean frontend.  Once called by the frontend, the backend execute data/String mainpulation and parses a syllabus, which is passed as a pdf document, and then parses it for dates as well as assignment/exam details.  It follows a specific structure to parse such dates: DATE ASSIGNMENT NAME.  DATE is in MONTH/DAY form and ASSIGNMENT NAME can be anything.  This structure was chosen because it was seen in multiple syllabi such as MA257.  This process utilized many Python lbraries, namely those for parsing documents and regular exressions like PyPDF2, re, and csv.  
@@ -22,7 +21,7 @@ The server is run on pythonanywhere.com, free web hosting server for Python and 
 ## Installation Instructions
 To install the 
 
-To utilize the web application, please navigate to: chtang.pythonanywhere.com.
+To utilize the web application, please navigate to: [here] (chtang.pythonanywhere.com).
 
 ## Group Members and Roles
 Chris Tang - Software Developer for Frontend and Server     
